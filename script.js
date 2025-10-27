@@ -66,6 +66,18 @@ const menuItems = [
     price: "350",
   },
   {
+    category: "Coffee",
+    name: "Flat white",
+    desc: "A smooth, velvety espresso-based coffee with steamed milk and a thin layer of microfoam",
+    price: "220",
+  },
+  {
+    category: "Coffee",
+    name: "Bullet Coffee",
+    desc: "Rich coffee blended clarified butter",
+    price: "220",
+  },
+  {
     category: "Iced/Blended Beverage",
     name: "Iced Americano",
     desc: "",
